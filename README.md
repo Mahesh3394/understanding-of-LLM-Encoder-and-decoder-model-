@@ -20,6 +20,9 @@ Autoregressive Generation: In many cases, decoders generate outputs one step at 
 Training Objectives: Decoders are often trained using various objectives such as cross-entropy loss for sequence generation tasks.
 Conditional Generation: Decoders can be conditioned on the context vector and can be designed as RNNs, transformers, or other architectures.
 
+![Uploading image.png…]()
+
+
 ### Applications
 - Encoder-Decoder models find applications in a wide range of NLP and computer vision tasks, including:
 
